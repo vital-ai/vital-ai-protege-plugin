@@ -14,11 +14,11 @@
          your project.  If you don't know what to use for groupId,
          don't worry, you can deal with that when you are ready for maven.
       -->
-	<groupId>edu.stanford.protege</groupId>
-	<artifactId>org.protege.plugin.template</artifactId>
+	<groupId>ai.vital.protege</groupId>
+	<artifactId>ai.vital.protege.plugin.template</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
-	<name>Dummy plugin</name> 
-	<description>A dummy plugin to jump-start developers</description> 
+	<name>Vital AI</name> 
+	<description>Vital AI plugin</description> 
 
 
 	<packaging>bundle</packaging>
